@@ -13,7 +13,7 @@ Write program to picking random country from countries.
 
 let names = 'Alex Max Tommy'
 
-Write program to picking random name from names.
+Write program to print random name from names in the following format 'Hallo ' and the random name.
 
 
 ------#######----------------
