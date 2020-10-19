@@ -22,7 +22,7 @@ let randomForCountries = Math.floor(Math.random() * countriesArray.length);
 //2 Write program to print random name from names in the following format 'Hallo ' and the random name.
 let namesArray = names.split(' ');
 let randomForNames = Math.floor(Math.random() * namesArray.length);
-// console.log(namesArray[randomForNames]);
+// console.log(`Hallo ${namesArray[randomForNames]}`);
 
 //3. Write program to picking number name from numbers. The output Should be absolute (not negative numbers).
 let arrayNumbers = numbers.split(' ');
