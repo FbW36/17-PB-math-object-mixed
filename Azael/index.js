@@ -18,7 +18,7 @@ let namesSplit = names.split(" ");
 let random1 = Math.floor(Math.random() * 3);
 let randomNames = namesSplit[random1];
 
-console.log("randomNames ==>", randomNames);
+console.log("randomNames ==>",  "Hallo " + randomNames);
 
 // *3)Write program to picking number name from numbers. The output Should be absolute (not negative numbers).
 
